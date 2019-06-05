@@ -1,5 +1,3 @@
-![Crate](https://raw.githubusercontent.com/sergdel/sergdel.github.io/master/images/crate/hero-with-link.png)
-
 # Crate 👕👖📦 
 
 #### Get monthly subscription of trendy clothes and accessories.
@@ -30,25 +28,6 @@
 - Scalable project structure and code
 - Starter application for Mobile and Web along with SSR
 - Sample project with combination of all above
-
-
-## Screenshots and GIFs
-Click on image to view fullscreen and zoom
-
-### Desktop
-[IMAGE](https://github.com/sergdel/sergdel.github.io/blob/master/images/crate/desktop-all-with-link.png)
-
-![Crate Desktop](https://raw.githubusercontent.com/sergdel/sergdel.github.io/master/images/crate/desktop-all-with-link.png)
-
-### Mobile 
-[IMAGE](https://github.com/sergdel/sergdel.github.io/blob/master/images/crate/mobile-all-with-link.png) · [GIF](https://github.com/sergdel/sergdel.github.io/blob/master/images/crate/mobile.gif)
-
-![Crate Mobile](https://raw.githubusercontent.com/sergdel/sergdel.github.io/master/images/crate/mobile-all-with-link.png)
-
-### Tablet
-[IMAGE](https://github.com/sergdel/sergdel.github.io/blob/master/images/crate/tablet-all-with-link.png) · [GIF](https://github.com/sergdel/sergdel.github.io/blob/master/images/crate/tablet.gif)
-
-![Crate Tablet](https://raw.githubusercontent.com/sergdel/sergdel.github.io/master/images/crate/tablet-all-with-link.png)
 
 
 ## Core Structure
@@ -135,12 +114,6 @@ Click on image to view fullscreen and zoom
 ## Authors
 - Sergiu Delamarian - [GitHub](https://github.com/sergdel)
 - [YOUR NAME HERE] - Feel free to contribute to the codebase by resolving any open issues, refactoring, adding new features, writing test cases or any other way to make the project better and helpful to the community. Feel free to fork and send pull requests.
-
-
-## Donate
-If you liked this project, you can donate to support it ❤️
-
-[![Donate via PayPal](https://raw.githubusercontent.com/sergdel/sergdel.github.io/master/images/mix/paypal-me-smaller.png)](http://paypal.me/sergdel) [![Become a Patreon](https://raw.githubusercontent.com/sergdel/sergdel.github.io/master/images/mix/patreon.png?v=1)](https://www.patreon.com/sergdel)
 
 
 ## Hire me
